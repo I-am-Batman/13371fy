@@ -1,0 +1,5 @@
+*.o
+13371fy
+13371fy-afl
+afldir/*
+tests/test
